@@ -10,4 +10,5 @@ public class AnalizerApplication {
 		SpringApplication.run(AnalizerApplication.class, args);
 	}
 
+
 }
